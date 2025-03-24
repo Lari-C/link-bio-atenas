@@ -19,6 +19,7 @@ body{
     height: 10%;
     padding-top: 1.5rem;
     z-index: 1;
+    border-radius: 5px;
 }
 
 .btn{
